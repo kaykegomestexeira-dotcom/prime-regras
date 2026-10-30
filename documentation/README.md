@@ -1,5 +1,7 @@
 # 💡 REGRAS GERAIS
 
+<figure><img src=".gitbook/assets/codex-clipboard-a7b00c67-7246-41e0-ad19-71593dc84424.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="success" %}
 Respeite todos os jogadores, especialmente os iniciantes.
 {% endhint %}
